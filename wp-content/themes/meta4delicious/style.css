@@ -1,0 +1,18 @@
+/*
+Theme Name: Delicous | Shared By VestaThemes.com
+Theme URI: https://www.metaphorcreations.com/downloads/delicious-wp-theme/
+Author: Metaphor Creations
+Author URI: https://www.metaphorcreations.com
+Description: Compact and modern theme.
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: meta4delicious
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+*/
+
+@import url(inc/static/css/style.css);
+
+.sticky,
+.gallery-caption,
+.bypostauthor {}
